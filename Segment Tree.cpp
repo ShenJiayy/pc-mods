@@ -152,7 +152,9 @@ namespace SegTree {
 			return res;
 		}
 	};
-}
+} 
+
+// Tester
 signed main() {
     SegTree::UpdateBlock x;
 	int a[] = {0, 1, 2, 3, 4};
